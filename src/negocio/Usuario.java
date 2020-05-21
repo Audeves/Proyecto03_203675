@@ -15,7 +15,6 @@ import org.bson.types.ObjectId;
  * @author Luis
  */
 public class Usuario {
-
     private ObjectId id;
     private String nombre, sexo;
     private int edad;
